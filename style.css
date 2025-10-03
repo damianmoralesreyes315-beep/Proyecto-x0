@@ -1,44 +1,58 @@
 body {
   background-color: #3B40C542;
+  text-align: Center;
 }
 
-h1 {
+.h1-0 {
   text-align: center;
 }
-#enlace1 {
-  border: solid;
-  border-radius: 10px;
-  padding: 3px;
-  background-color: #0B13E2DE;
-  color: #F9FFFCDE;
-}
-.miPrimera {
+.h2-0 {
   text-align: center;
-  margin: 20px auto;
 }
-
-.miPrimera img {
-  display: block;
-  margin: 10px auto;
-  border-radius: 50px;
+.button-0 {
+  text-align: Center;
 }
-
-.miPrimera button {
-  background-color: #0B13E2DE;
-  margin: 10px;
-  padding: 8px 15px;
-  border-radius: 15px;
-  color: #FFFFFFDE;
-}
-
-img { 
-  border-radius: 50px 50px 50px 50px;
-  border: solid 5px;
-  padding: 10px;
-}
-#boton {
+  #boton {
   text-align: center;
   font-size: 20px;
+}
+.div-0 {
+  text-align: center;
+  border: solid;
+  border-radius: 60px;
+  padding: 10px;
+  margin: 20px;
+  background-color: #6FA482;
+}
+
+.img-0 {
+  border-radius: 60px;
+  margin: 20px;
+  border: solid 0.80px;
+  padding: 5px;
+  background-color: #4AB0FF;
+}
+
+.h2-1 {
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.img-1 {
+  background-color: #4AB0FF;
+  padding: 10px;
+  border: solid;
+  border-radius: 300px;
+  text-align: center;
+}
+
+#elementosli {
+  text-align: center;
+  border: solid;
+  background-color: #7881E9;
+  border-radius: 30px;
+  
 }
 footer {
   padding-top: 200px;
